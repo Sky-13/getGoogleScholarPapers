@@ -1,1 +1,3 @@
 # getGoogleScholarPapers
+step1.mypapers.py:用来从谷歌学术上检索title的关键词和year，并将检索信息保存成xls文件到当前文件夹下
+step2.readexcel.py:从step1中得到的xls文件中检索期刊关键词并保存至当前文件夹下
